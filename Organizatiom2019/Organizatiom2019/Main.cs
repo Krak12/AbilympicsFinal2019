@@ -53,7 +53,7 @@ namespace Organizatiom2019
                 }
                 else Close();
             }
-            else if(Data.UserAutorized.TypeAcc == 3)
+            else if (Data.UserAutorized.TypeAcc == 3)
             {
                 Form tm = new TechnicianMenu();
                 Hide();
